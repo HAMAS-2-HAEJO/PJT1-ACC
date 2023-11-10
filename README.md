@@ -16,7 +16,7 @@ Matlab Simulink를 통한 Adaptive Cruise Control기능 구현 프로젝트
 | 폴더 | 상세내용 |
 | --- | --- |
 | Requirements | 전달받은 요구사항에 대한 명세과정 |
-| Test | 단위테스트 - 통합테스트 - 인수테스트 수행과정 |
+| Test | 단위테스트 - 통합테스트 - 시스템 및 인수테스트 수행과정 |
 | Unit | 단위 모듈 설계 및 구현 파일 |
 | integrated | 기능별 통합 및 최종 통합 파일 정리 |
 
