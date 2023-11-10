@@ -8,6 +8,8 @@ Matlab Simulink를 통한 Adaptive Cruise Control기능 구현 프로젝트
 ## 프로젝트 소개
 
 
+## 주요기능
+
 ---
 ## 환경구축
 
