@@ -93,3 +93,5 @@ https://www.youtube.com/watch?v=FTfYrt9U5B0
 | 형상관리 | Git |
 | 의사소통관리 | Notion, 카카오톡 |
 | 기타사항 |  |
+   
+Notion 링크 : https://www.notion.so/ACC-5-fdd506af2b7741fa80b37abbb6d60142?pvs=4
