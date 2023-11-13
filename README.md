@@ -30,7 +30,8 @@ Matlab Simulink를 이용하여 고속도로 자율주행을 위한 고도화된
 <img src="https://github.com/HAMAS-2-HAEJO/PJT1-ACC/assets/87352996/3d62ddbc-1672-4384-9895-e8bc6c2d8aec.png" width="400" height="200"/>
 <img src="https://github.com/HAMAS-2-HAEJO/PJT1-ACC/assets/87352996/d864bffc-dd02-4cb3-8090-741fa58c43ce.png" width="400" height="200"/>
 
-
+### 시연영상
+https://www.youtube.com/watch?v=FTfYrt9U5B0
 
 ## 프로젝트 산출물 요약
 
